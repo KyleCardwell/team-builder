@@ -11,7 +11,7 @@ function App() {
   const addMember = (newMember) => {
     const newTeamList = [...teamList, newMember]
     setTeamList(newTeamList)
-    console.log(teamList)
+
   }
 
   return (

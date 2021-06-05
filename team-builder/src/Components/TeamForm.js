@@ -43,6 +43,7 @@ export default function TeamForm(props) {
                     <option>Slytherin</option>
                 </select>
             </div>
+
             <button type="submit">Submit</button>
         </form>
     )
